@@ -58,4 +58,4 @@ python app.py
 After that, open http://127.0.0.1:5000/ in your browser
 
 ## Caesar Decipherer
-Casual program, just download and run the main.py file. It receives an encrypted message and decrypts it. I am planning to modify it soon.
+Casual program, just download and run the main.py file. It receives an encrypted message and decrypts it (you should know the step parameter). I am planning to modify it soon.
