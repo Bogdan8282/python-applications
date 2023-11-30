@@ -1,9 +1,8 @@
-# Pandas lib required to run this code
 import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV file
-netflix_df = pd.read_csv("netflix_data.csv")
+netflix_df = pd.read_csv("./netflix_data.csv")
 
 # Filter to remove TV shows
 netflix_subset = netflix_df[netflix_df['type'] != 'TV Show']
