@@ -1,5 +1,5 @@
 # My Python programs
-There is instructions on how to download and run the programs I created. Make sure you have Python and pip module, then clone this repository to your desktop.
+There is instructions on how to download and run the programs I created. Make sure you have Python and pip module, then clone this repository to your device.
 
 ## Snake game
 Good old game. To run this, you are going to need pygame module, which can be downloaded by printing this in your console:
